@@ -1,0 +1,35 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Fri May 13 06:58:11 2022
+[*]
+[dumpfile] "C:\Users\OMEN\Downloads\result (2)\DU.vcd"
+[dumpfile_mtime] "Thu May 12 22:55:38 2022"
+[dumpfile_size] 3730
+[savefile] "E:\My_studies\4th_year\Sem_2\SKEL 4273 - CAD WITH HDL\Projects\CAD-assignment-batch03\DU.gtkw"
+[timestart] 0
+[size] 1920 1027
+[pos] -191 -191
+*-9.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 211
+[signals_width] 110
+[sst_expanded] 1
+[sst_vpaned_height] 305
+@28
+DU_testbench.clk
+DU_testbench.reset
+@22
+DU_testbench.dataA[3:0]
+DU_testbench.dataB[3:0]
+@28
+DU_testbench.ctrlA
+DU_testbench.ctrlB
+DU_testbench.ldA
+DU_testbench.ldB
+DU_testbench.Psel
+DU_testbench.ldP
+DU_testbench.b0
+DU_testbench.z
+@22
+DU_testbench.P[7:0]
+[pattern_trace] 1
+[pattern_trace] 0

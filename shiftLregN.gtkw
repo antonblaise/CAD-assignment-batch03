@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Fri May 13 06:21:29 2022
+[*]
+[dumpfile] "C:\Users\OMEN\Downloads\result (5)\shiftLregN.vcd"
+[dumpfile_mtime] "Thu May 12 21:53:04 2022"
+[dumpfile_size] 1721
+[savefile] "E:\My_studies\4th_year\Sem_2\SKEL 4273 - CAD WITH HDL\Projects\CAD-assignment-batch03\shiftLregN.gtkw"
+[timestart] 0
+[size] 1920 1027
+[pos] -243 -243
+*-7.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 211
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 305
+@28
+shiftLregN_testbench.clk
+shiftLregN_testbench.rst
+shiftLregN_testbench.en
+shiftLregN_testbench.ldsh
+@29
+shiftLregN_testbench.d[7:0]
+@28
+shiftLregN_testbench.SI
+@29
+shiftLregN_testbench.q[7:0]
+@28
+shiftLregN_testbench.SO
+[pattern_trace] 1
+[pattern_trace] 0

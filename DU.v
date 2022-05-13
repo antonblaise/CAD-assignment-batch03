@@ -14,7 +14,7 @@ module DU (
 
 	shiftLregN u0 (.d({4'h0, dataA}), .SI(1'b0), .rst(reset), .ldsh(ctrlA), .en(ldA), .clk(clk), .SO(), .q(A));
 	shiftRregN u1 (.d(dataB), .SI(1'b0), .rst(reset), .ldsh(ctrlB), .en(ldB), .clk(clk), .SO(b0), .q(B));	
-	regn u2 (.d( Psel ? (A+P) : (8'h00) ), .rst(reset), .en(ldP), .clk(clk), .q(P));
+	regn u2 (.d( Psel ? (A+P) : (8'h00) ), .rst(reset), .pst(0), .en(ldP), .clk(clk), .q(P));
 	
 	assign z = ^B;
 	
